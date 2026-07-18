@@ -33,7 +33,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
-Then open the URL shown in the terminal (usually http://localhost:8501).
+Then open the URL shown in the terminal (usually https://daman96k--bank-marketing-campaign-eda-project-loknvf.streamlit.app/).
 
 ## Features
 
